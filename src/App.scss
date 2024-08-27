@@ -1,0 +1,17 @@
+.center-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.open-sidebar-btn {
+    background-color: #E4875D;
+    border: none;
+    padding: 12px 24px;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 16px;
+}
